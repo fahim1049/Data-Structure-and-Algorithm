@@ -1,5 +1,6 @@
 # Data-Structure-Lab
-## Data Structure Lab Practice
-##ID : 221-35-1049
-##Teacher : Shazia Sharmin
+
+## ID : 221-35-1049
+## Section : E
+## Teacher : Ms. Shazia Sharmin
 
